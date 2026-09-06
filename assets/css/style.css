@@ -105,3 +105,30 @@ figcaption{
 .movieCard:hover figcaption, .movieCard:focus figcaption, .movieCard:active figcaption{
     transform: translateY(0%);
 }
+
+.mainForm{
+    width : 60%;
+    top: 20%;
+    left:20%;
+    position: absolute;
+    display: none  ;
+}
+
+.backDrop{
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #000;
+    opacity: 0.8;
+}
+
+.backDrop.active{
+    display: block;
+}
+
+.mainForm.active{
+    display: block;
+}
