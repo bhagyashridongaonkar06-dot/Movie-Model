@@ -13,7 +13,7 @@ const addMovie = document.getElementById('addMovie')
 const updateMovie = document.getElementById('updateMovie')
 
 
-let movieArray = [
+let movieArray = [           
     {
         movieName: "Avengers: Endgame",
         movieImg: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMnsEFNF6iRkbonUdOmGrrgY7tLLeTAOHdu6Hn_AVSw&s=10",
