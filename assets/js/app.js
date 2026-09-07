@@ -49,7 +49,7 @@ let movieArray = [
         movieDescription: "Three friends experience friendship, education, and the challenges of college life.",
         movieId: 'Movie15'
     }
-];
+];        
 
 
 //  localStorage.setItem('movieArr', JSON.stringify(movieArray))
